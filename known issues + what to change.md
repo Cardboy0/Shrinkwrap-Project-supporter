@@ -1,1 +1,2 @@
-
+- add optional "offset" of bulge.
+- add better way of smoothing
